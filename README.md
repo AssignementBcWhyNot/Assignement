@@ -7,20 +7,22 @@ Check all the readme inside the folder (general one, backend one and frontend on
 
 --------------------------------------------------------
 
-Here is the figma, saddly i cannot have better picture quality but for now (24/03/2025) I still have access to the Figma so if you want any info just ask me :
+Here is the figma, saddly i cannot have better picture quality :
 
 **Start Page :**
 
 
 Desktop :
 
+<img width="476" alt="Capture d’écran 2025-03-24 à 13 20 27" src="https://github.com/user-attachments/assets/18e387ee-c394-4603-8634-cb8d665410f8" />
 
-<img width="433" alt="Capture d’écran 2025-03-24 à 12 29 24" src="https://github.com/user-attachments/assets/7245840b-de9e-4d75-8d0b-2c74fef465d4" />
+
 
 Mobile :
 
 
-<img width="65" alt="Capture d’écran 2025-03-24 à 12 30 37" src="https://github.com/user-attachments/assets/194911b5-093e-4613-9c6e-80cf29bbfcb3" />
+<img width="71" alt="Capture d’écran 2025-03-24 à 13 21 14" src="https://github.com/user-attachments/assets/373c45ad-6861-47bd-bde4-6d2013189bd8" />
+
 
 
 
@@ -43,12 +45,16 @@ Mobile :
 Desktop :
 
 
-<img width="335" alt="Capture d’écran 2025-03-24 à 12 31 24" src="https://github.com/user-attachments/assets/39148a9a-cc43-44d2-9998-9c60fd32bd30" />
+<img width="1228" alt="Capture d’écran 2025-03-24 à 13 21 48" src="https://github.com/user-attachments/assets/4a089ba8-7465-4115-9b4a-bea967dcdc73" />
+
+
+
 
 Mobile :
 
+<img width="326" alt="Capture d’écran 2025-03-24 à 13 22 20" src="https://github.com/user-attachments/assets/f1a77597-38e4-44e5-9473-1ef115c598c6" />
 
-<img width="310" alt="Capture d’écran 2025-03-24 à 12 31 59" src="https://github.com/user-attachments/assets/ae8aaf1a-2be3-4816-a0c3-53d1a7bbb59e" />
+
 
 
 --------------------------------------------------------
@@ -59,9 +65,13 @@ Mobile :
 Desktop :
 
 
-<img width="579" alt="Capture d’écran 2025-03-24 à 12 32 43" src="https://github.com/user-attachments/assets/b7038571-b894-4288-86cb-39bb533d05c2" />
+<img width="1177" alt="Capture d’écran 2025-03-24 à 13 22 52" src="https://github.com/user-attachments/assets/1342defe-4fee-4d8c-a5d9-f5db98ba72bf" />
+
+
 
 Mobile :
 
 
-<img width="276" alt="Capture d’écran 2025-03-24 à 12 33 11" src="https://github.com/user-attachments/assets/1e892680-d800-4d30-b683-b82fdda2a2c2" />
+<img width="330" alt="Capture d’écran 2025-03-24 à 13 23 22" src="https://github.com/user-attachments/assets/0e9fd32d-76bf-43e1-9e82-235b676b627f" />
+
+
